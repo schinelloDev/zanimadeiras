@@ -4188,7 +4188,7 @@ section.lazy-placeholder:after {
 .cid-rT7QnIkahU {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/equipe2-1261x340.jpg");
+  background-image: url("../../../assets/images/07-1920x1080.jpg");
 }
 .cid-rT7QnIkahU H2 {
   color: #ffffff;
@@ -4252,10 +4252,25 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-.cid-rT83rzA3Ru {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/equipe-2-1261x664.jpeg");
+.cid-rTuTVXAzK3 {
+  background: #ef5b0b;
+}
+.cid-rTuTVXAzK3 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rTuTVXAzK3 figcaption {
+  position: relative;
+}
+.cid-rTuTVXAzK3 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rTuTVXAzK3 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rT7QnJFj2H {
   padding-top: 30px;
